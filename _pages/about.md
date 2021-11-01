@@ -6,9 +6,9 @@ permalink: /about
 
 
 
-### Open-Source technology, training, strategy for Tibet & the world.
+### Tibet Unlocked: About
 
 
 
 
-> The Tibet Action Institute brings together thought leaders, campaigners, and technology experts at the forefront of the Tibet movement in order to develop and implement visionary end-game strategies designed to help Tibetans win their nonviolent struggle for rights and freedom. We develop and deploy technology systems, map and execute big-picture campaigning, and offer training in safe and secure use of information and communication technologies and the art and methods of strategic nonviolent resistance.
+> Tibet Unlocked breaks through China’s information blackout on Tibet by shining a spotlight on critical issues facing Tibetans in Tibet and telling stories of their brave resistance to Chinese rule. Hosted by two Tibetan activist leaders in exile, this podcast brings a Tibetan-focused activist perspective into the heart of the discussion of the Sino-Tibetan conflict.
