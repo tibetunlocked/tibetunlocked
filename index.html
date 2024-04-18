@@ -15,6 +15,7 @@ layout: default
                
                 <p class="meta">{{ first_post.date | date: "%b %-d, %Y" }}</p>
                 <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>  discussion with {{ first_post.voices }}</p>
+                <p>{{first_post.summary}}</p>
             </div>
             <div class="four columns center-content">
                  <img src="{{ site.baseurl }}{{first_post.thumbnail}}" alt="{{first_post.thumbnail}}" class="thumbnail" width="200px">
