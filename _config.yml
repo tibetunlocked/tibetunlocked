@@ -11,12 +11,12 @@ email: tibetaction21@gmail.com
 description: "Tibet Unlocked breaks through China’s information blackout on Tibet by shining a spotlight on critical issues facing Tibetans in Tibet and telling stories of their brave resistance to Chinese rule. Hosted by two Tibetan activist leaders in exile, this podcast brings a Tibetan-focused activist perspective into the heart of the discussion of the Sino-Tibetan conflict."
 subtitle: "And for subtitle"
 lang: en-us
-author: Tibet Action Institute
+author: '@tibetaction'
 copyright: "Tibet Action Institute 2021"
 banner: "/images/homeBanner.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tibetunlocked.github.io" # the base hostname & protocol for your site
-twitter_username: 
+twitter_username: '@tibetaction'
 github_username:  
 
 permalink: /:year/:title.html
