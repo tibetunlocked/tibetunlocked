@@ -5,6 +5,25 @@
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+      <meta charset="utf-8">
+    <!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{site.web-url}}{{page.url}}">
+<meta property="og:title" content="{{page.title}}">
+<meta property="og:audio" content="{{page.file}}">
+<meta property="og:description" content="{{page.summary}}">
+<meta property="og:image" content="{{site.web-url}}{{page.thumbnail}}">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="{{site.web-url}}{{page.url}}">
+<meta property="twitter:creator" content="{{site.author}}">
+<meta property="twitter:title" content="{{page.title}}">
+<meta property="twitter:player" content="{{page.file}}">
+<meta property="twitter:description" content="{{page.summary}}">
+<meta property="twitter:image" content="{{page.thumbnail}}">
+<!-- Twitter  Ends-->
     
 
 <!-- Style Sheets -->
